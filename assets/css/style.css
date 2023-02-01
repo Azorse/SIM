@@ -1,0 +1,135 @@
+body {
+    background-image: url("../images/SIMFit.png");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center right;
+    background-size: contain;
+  }
+  
+  
+  h1 {
+    color:black;
+    font-weight: bold;
+  }
+  
+  p {
+    color: black;
+    font-size: 14pt;
+  }
+  
+  footer {
+    background-color: #343a40;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  
+  @media screen and (max-width: 400px) {
+    footer {
+      background-color: #343a40;
+      position: relative;
+      bottom: 0;
+      width: 100%;
+     }
+  }
+  
+  @media screen and (max-width: 800px) {
+    footer {
+      background-color: #343a40;
+      position: relative;
+      bottom: 0;
+      width: 100%;
+     }
+  }
+  
+  .navbar-nav > li{
+    padding-left:30px;
+    padding-right:30px;
+  }
+  
+  .lead {
+    font-size: 20pt;
+  }
+  
+  .jumbotron-fluid {
+    opacity: 0.4;
+  }
+  
+  .footercase{
+    height: 55px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+  
+  }
+  
+  
+  .holder {
+    justify-content: center;
+    background-color: rgba(80, 80, 80, 0.0);
+  }
+  .icons{
+    background-color: #343a40;
+  }
+  
+  .captions {
+    width: 225px;
+    color: white;
+    background-color: black;
+    font-weight: bold;
+    text-align: center;
+  }
+  .page-body {
+    background-color: rgba(80, 80, 80, 0.9);
+    font-size: 20pt;
+  
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 4px;
+  }
+  
+  #location {
+    margin-top: -.5em;
+  }
+  
+  #linkdin {
+    color:  rgba(80, 80, 80, 0)
+  }
+  
+  #mern {
+    position: relative;
+    margin-top: 200px;
+    opacity: 75%;
+  }
+  
+  #mugshot {
+    position: relative;
+    margin-top: -3em;
+    margin-left: 8em;
+    border: solid 1px black;
+    border-radius: 25%;
+  }
+  
+  .image-holder{
+    display: flex;
+    justify-content: center;
+  }
+  .figure-img {
+   padding-top: 10px;
+  
+  }
+  Footer
+  © 2023 GitHub, Inc.
+  Footer navigation
+  Terms
+  Privacy
+  Security
+  Status
+  Docs
+  Contact GitHub
+  Pricing
+  API
+  Training
+  Blog
+  About
+  
